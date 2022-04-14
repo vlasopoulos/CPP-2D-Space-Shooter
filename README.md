@@ -4,6 +4,8 @@ Short gameplay video:
 
 https://user-images.githubusercontent.com/1096466/163340899-a9d25af9-037b-4875-9f8a-e808212d90ef.mp4
 
+Music by [Lobo](https://www.instagram.com/lobo_0fficial/)
+
 CONTROLS: ARROW KEYS/WASD to move, SPACE to shoot, (G).
 
 I've always liked Tyrian2000 as a kid so I tried to make something along those lines. What came out is an asteroids/tyrian litle hybrid.
