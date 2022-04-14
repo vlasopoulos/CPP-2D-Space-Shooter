@@ -19,6 +19,4 @@ Pressing G enters Godmode.
 
 ![Gameplay Screenshot](https://github.com/F3V3R/CPP-2D-Space-Shooter/blob/master/cpp-assignment-gameplay.png)
 
-
-
-
+Uses [Simple Game Graphics Library](https://github.com/cgaueb/sgg)
