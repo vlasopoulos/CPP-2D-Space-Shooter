@@ -8,7 +8,7 @@ Music by [Lobo](https://www.instagram.com/lobo_0fficial/)
 
 CONTROLS: ARROW KEYS/WASD to move, SPACE to shoot, (G).
 
-I've always liked Tyrian2000 as a kid so I tried to make something along those lines. What came out is an asteroids/tyrian litle hybrid.
+I've always liked Tyrian2000 as a kid so I tried to make something along those lines. What came out is an asteroids/tyrian little hybrid.
 
 Gameplay: You are trying to get away from the enemies. In every level you have to kill a specific number of enemies in order to escape. The game consists of 5 levels.
 
