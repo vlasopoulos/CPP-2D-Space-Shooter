@@ -10,3 +10,7 @@ Your ship has to take 3 direct shots before it dies.
 The enemy ships also have to take 3 direct shots to die.
 
 Pressing G enters Godmode.
+
+![First Screen](https://github.com/F3V3R/CPP-2D-Space-Shooter/blob/master/cpp-assignment-first-screen.png)
+
+![Gameplay Screenshot](https://github.com/F3V3R/CPP-2D-Space-Shooter/blob/master/cpp-assignment-gameplay.png)
